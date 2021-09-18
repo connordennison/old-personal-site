@@ -44,6 +44,10 @@ a {
     
 }
 
+.button a:hover{
+	color: #FFFFFF;
+}
+
 .name {
     font-weight: bold;
 }
