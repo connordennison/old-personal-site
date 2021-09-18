@@ -40,9 +40,34 @@ a {
 .button {
     padding: 6px;
     border: 2px solid #eee;
-    border-radius: 5px;
-    
+    border-radius: 5px;    
 }
+
+a:hover .twitter{
+  color: #00acee;
+}
+
+a:hover .discord{
+  color: #5865F2;
+}
+
+a:hover .youtube{
+  color: #FF0000;
+}
+
+a:hover .twitch{
+  color: #6441a5	;
+}
+
+a:hover .github{
+  color: #4078c0;
+}
+
+a:hover .steam{
+  color: #00adee;
+}
+
+
 
 .name {
     font-weight: bold;
